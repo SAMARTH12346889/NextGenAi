@@ -95,3 +95,10 @@ We welcome contributions to improve the project! To contribute:
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request.
+
+![Histroy](https://github.com/user-attachments/assets/92fed8b9-a45c-4369-85f4-85d0bcdc260f)
+![Home](https://github.com/user-attachments/assets/5b7462a7-2e1a-4821-ba81-e3caffa52441)
+![Backend](https://github.com/user-attachments/assets/0ec2394a-4e92-4d29-b5aa-94a636232130)
+![Login](https://github.com/user-attachments/assets/35beb09b-e476-48f7-9759-351145611e8f)
+![Profile](https://github.com/user-attachments/assets/e8507b87-ae46-4472-a477-fa91a4a148ed)
+![Query](https://github.com/user-attachments/assets/432f8f82-b548-4b75-b1b7-4908a58410bb)
