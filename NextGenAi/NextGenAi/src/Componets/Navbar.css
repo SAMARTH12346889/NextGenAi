@@ -1,0 +1,29 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    box-shadow: 0px 4px  rgba(0, 0, 0, 0.5); /* Adjust values as needed */
+    background-color: #fff; 
+    
+
+}
+
+.logo{
+  font-family: sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  background-image: linear-gradient(to right, rgb(212, 255, 168), rgb(128, 248, 112)); 
+  -webkit-background-clip: text; 
+  background-clip: text;
+  color: transparent; 
+
+}
+
+.his-button{
+  text-decoration: none;
+  margin-left: 1150px;
+  font-size: 22px;
+  cursor: pointer;
+  color: rgb(8, 7, 7); 
+}
